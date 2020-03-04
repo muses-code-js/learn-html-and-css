@@ -1,7 +1,7 @@
 # Learn HTML and CSS
 
 More info [here](https://musescodejs.org/sydney-dojo.html)
-)
+
 For the session we will have few 'Katas' - so-called exercise - on which we will work during the evening, we will be learning HTML & CSS. 
 
 HTML is the foundation behind all web pages. It’s used to add structure and form to text, images, and more. 
